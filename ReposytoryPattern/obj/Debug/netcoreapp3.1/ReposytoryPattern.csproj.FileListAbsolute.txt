@@ -1,0 +1,10 @@
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\bin\Debug\netcoreapp3.1\ReposytoryPattern.deps.json
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\bin\Debug\netcoreapp3.1\ReposytoryPattern.dll
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\obj\Debug\netcoreapp3.1\ReposytoryPattern.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\obj\Debug\netcoreapp3.1\ReposytoryPattern.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\obj\Debug\netcoreapp3.1\ReposytoryPattern.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\bin\Debug\netcoreapp3.1\ReposytoryPattern.runtimeconfig.json
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\bin\Debug\netcoreapp3.1\ReposytoryPattern.runtimeconfig.dev.json
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\bin\Debug\netcoreapp3.1\ReposytoryPattern.pdb
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\obj\Debug\netcoreapp3.1\ReposytoryPattern.dll
+C:\Users\Vladislav\source\repos\MobileApiCore\ReposytoryPattern\obj\Debug\netcoreapp3.1\ReposytoryPattern.pdb
